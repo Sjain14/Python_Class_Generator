@@ -1,6 +1,6 @@
 # python-class-generator README
 
-This is the README for your extension "python-class-generator".
+This is the README for extension "python-class-generator".
 
 
 ## Features
