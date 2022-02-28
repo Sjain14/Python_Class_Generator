@@ -5,7 +5,7 @@ This is the README for your extension "python-class-generator".
 ## Features
 
 
-\!\[feature X\]\(Feature.gif\)
+\!\[feature X\]\(./demo.gif)
 
 This extension will generate a Python class file based on User Input. The user will be prompted for the name of the class he/she wants to create as well as the properties of that class.
 
